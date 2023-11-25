@@ -9,6 +9,10 @@
 
 В настоящее время нахожусь в поиске работы. Предпочитаю удаленный формат работы, но не против офиса, если это будет нужно. Интересна работа в стабильной компании, в дружной команде. 
 
+## Стек
+
+Python, Django, Django Rest Framework, PostgreSQL, Docker, Bootstrap, HTML, CSS, Linux, Nginx, CI/CD, Github Actions
+
 ## Контакты
 
 Telegram: https://t.me/Rinat_RB
