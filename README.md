@@ -11,7 +11,7 @@
 
 ## Стек
 
-Python, Django, Django Rest Framework, PostgreSQL, Docker, Bootstrap, HTML, CSS, Linux, Nginx, CI/CD, Github Actions
+Python, Django, Django Rest Framework, PostgreSQL, Docker, Linux, Nginx, CI/CD, Github Actions, , Bootstrap, HTML, CSS
 
 ## Контакты
 
